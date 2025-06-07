@@ -1,0 +1,2288 @@
+       Title: Expedition for New Symptom-Specific TMS Targets: Protocol for the First Randomized
+
+
+
+
+                                                                                     ed
+       Causal Circuit Mapping Trial
+       Emily Aquadro1*, Leanna Bomer2*, Ryan Webler3, Andrew Pines 4, Danielle D. DeSouza5,
+       David Carreon6, Nicole Chiulli7, Summer Frandsen8, Joseph J. Taylor9, Shan H. Siddiqi10
+
+
+
+
+                                                                                  iew
+       Affiliations:
+       1 Center for Brain Circuit Therapeutics, Brigham and Women's Hospital, Boston, MA, USA
+       2 Brigham and Women’s Hospital, Boston, MA, USA
+       3 Brigham and Women’s Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA,
+       USA
+       4 Brigham and Women’s Hospital, Boston, MA, USA; Harvard Medical School, Boston, MA,
+       USA
+
+
+
+
+                                                                        ev
+       5 Acacia Clinics, Sunnyvale, CA, USA
+       6 Acacia Clinics, Sunnyvale, CA, USA
+       7 Brigham and Women’s Hospital, Boston, MA, USA
+       8 Brigham and Women’s Hospital, Boston, MA, USA; Emory University, Atlanta, GA
+
+
+
+
+                                                             r
+       9 Center for Brain Circuit Therapeutics, Brigham & Women's Hospital, Boston, MA;
+       Department of Psychiatry, Mass General Brigham, Boston, MA, USA; Harvard Medical School,
+       Boston, MA, USA
+                                                          er
+       10 Center for Brain Circuit Therapeutics, Brigham & Women's Hospital, Boston, MA;
+       Department of Psychiatry, Mass General Brigham, Boston, MA, USA; Harvard Medical School,
+       Boston, MA, USA
+                                               pe
+       Sponsor Name: NIH-NIMH National Institute of Mental Health
+       PI Name: Siddiqi, Shan H
+       Keywords: Transcranial magnetic stimulation, causal brain mapping, behavioral phenotyping
+                                     ot
+
+       measures, prefrontal cortex, rostromedial prefrontal cortex, functional MRI, MDD, GAD, OCD,
+       schizophrenia
+                          tn
+                rin
+     ep
+Pr
+
+
+
+
+                                                                                                              1
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Abstract
+
+
+
+
+                                                                                     ed
+       Background: Functional neuroimaging has been used to map brain organization, but only
+
+       identifies correlates of brain functions rather than causes. Causal brain mapping can be
+
+
+
+
+                                                                                  iew
+       conducted by randomly applying transcranial magnetic stimulation (TMS) to different targets, as
+
+       randomization controls for all confounders, and comparing clinical outcomes across different
+
+       targeted circuits. Random targets can be systematically compared by mapping their functional
+
+
+
+
+                                                                        ev
+       connectivity to specific circuits. This study will build a multidimensional atlas of circuits that are
+
+       causally involved in human brain function. We aim to identify TMS targets for a wide range of
+
+
+
+
+                                                             r
+       transdiagnostic constructs relevant to psychopathology from broad spectra (e.g., internalizing) to
+
+       specific symptoms (e.g., worry) and processes (e.g. emotional regulation).
+                                                          er
+       Methods/Design: 90 participants with major depression, obsessive-compulsive disorder,
+                                               pe
+       generalized anxiety disorder, or schizophrenia will receive 40 total sessions of accelerated
+
+       intermittent theta burst stimulation (aiTBS). The first 20 sessions will be applied over two days
+
+       to a random target in the left prefrontal cortex (PFC). A deep circuit-based phenotyping battery
+                                     ot
+
+
+       pre- and post-aiTBS will be conducted. Six weeks later, participants will receive 20 sessions of
+
+       aiTBS to a different random target in the left PFC. Patients with schizophrenia will be offered an
+                          tn
+
+
+
+       open-label extension with aiTBS to the rostromedial prefrontal cortex (rmPFC), a previously
+
+       proposed, novel target for schizophrenia.
+                rin
+
+
+
+
+       Discussion: We aim to map circuitry connected to TMS sites that causally modify
+
+       transdiagnostic and diagnosis-specific behaviors. This will complement prior retrospective
+     ep
+
+
+
+
+       studies using incidental lesions and stimulation sites and aim to define optimal TMS target
+
+       circuits across diagnoses.
+Pr
+
+
+
+
+                                                                                                              2
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Introduction
+
+
+
+
+                                                                                     ed
+       Thanks to advances in brain stimulation, we can now test causal hypotheses by selectively
+
+       applying transcranial magnetic stimulation (TMS) to specific brain circuits1. These approaches
+
+
+
+
+                                                                                  iew
+       have been used to treat mental illnesses such as major depression and to modulate psychological
+
+       processes (e.g. fear extinction)2 , neurological functions (e.g. motor rehabilitation)3, personality
+
+       traits (e.g. hypnotizability)4, and even neurotransmitter function (e.g. NMDA-mediated
+
+
+
+
+                                                                        ev
+       plasticity)5. These results are the tip of the iceberg – many brain functions can likely be mapped,
+
+       targeted, and causally modulated.
+
+
+
+
+                                                             r
+       Causal brain mapping can be conducted by randomly applying TMS to different targets and
+
+       mapping the functional connectivity of targets that preferentially modify any given cluster of
+                                                          er
+       behaviors1. Our group piloted this approach using observational data on 111 patients receiving
+                                               pe
+       clinical TMS for depression. Treatment was targeted based on scalp measurements, leading to
+
+       incidental inter-individual variability in TMS sites. Incidental stimulation of one circuit led to
+
+       changes in “dysphoric” symptoms such as sadness and suicidality, while stimulation of a
+                                     ot
+
+
+       different circuit led to changes in “anxiosomatic” symptoms such as libido and worry6. However,
+
+       these results were based on retrospective analysis of TMS sites that happen to be within regions
+                          tn
+
+
+
+       that are typically targeted for depression. This was subsequently validated in a prospective
+
+       clinical trial showing that stimulation of these distinct targets can selectively modify anxiety
+                rin
+
+
+
+
+       independently of depression7. To test for other relevant circuits, our group recently applied a
+
+       similar clustering approach, except using brain lesions (n=196) spanning the whole brain instead
+     ep
+
+
+
+
+       of TMS sites8. This yielded a third circuit for a third behavioral cluster, and connectivity to this
+
+       third circuit independently predicted TMS outcomes for depression.
+Pr
+
+
+
+
+                                                                                                              3
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       These results suggest that there may be other clinically-useful target circuits that remain
+
+
+
+
+                                                                                     ed
+       undetected. To create a robust and consistent atlas of such circuits, it would be necessary to
+
+       prospectively randomize the TMS site and study changes in various transdiagnostic behaviors.
+
+
+
+
+                                                                                  iew
+       To our knowledge, most prior causal brain mapping work has been based incidental variability in
+
+       locations of TMS sites or other focal manipulations such as DBS or lesions. These retrospective
+
+       natural experiments are useful but are not fully random, as several factors can bias these
+
+
+
+
+                                                                        ev
+       incidental distributions. For example, locations of TMS sites are biased by head size, which
+
+       systematically differs by gender and ethnicity. Locations of DBS sites are biased by
+
+
+
+
+                                                             r
+       intraoperative testing results, which are systematically related to the symptom that is being
+
+
+                                                          er
+       treated. The locations of brain lesions are systematically biased by vascular distributions (in the
+
+       case of stroke) or physical trajectories of external head trauma (e.g. projectiles to the amygdala
+                                               pe
+       must first pass through the anterolateral temporal lobe). Only prospective randomization can
+
+       address these biases.
+
+       Here, we will prospectively randomize across a large range of TMS targets. We can compare
+                                     ot
+
+
+       these widely different TMS targets by using resting-state functional connectivity, which acts as a
+
+       wiring diagram of the human brain, enabling us to quantitatively compare targets that may
+                          tn
+
+
+
+       otherwise seem different from each other (Fig. 1). Most TMS clinical trials compare TMS to
+
+       sham, but do not compare different targets to each other. As a result, they are not able to
+                rin
+
+
+
+
+       comment on the causal role of a specific brain circuit, as they cannot test for anatomical
+
+       specificity. Even in the rare trials that compare two or more targets, the tests are biased by a prior
+     ep
+
+
+
+
+       model that influenced target selection. To our knowledge, this is the first study to attempt true
+
+       randomization in which a TMS site is chosen without any prior assumptions about its function.
+Pr
+
+
+
+
+                                                                                                              4
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       We will employ accelerated intermittent theta burst stimulation (aiTBS)9. With a 30-fold greater
+
+
+
+
+                                                                                     ed
+       daily dose than conventional TMS, the antidepressant efficacy of one day of aiTBS is on par
+
+       with 30 daily treatments of conventional TMS. Other functions have also successfully been
+
+
+
+
+                                                                                  iew
+       modulated with aiTBS to different targets, such as hypnotizability4 and obsessive-compulsive
+
+       symptoms10, but these studies were unable to map causal circuitry because they did not
+
+       randomize the TMS site.
+
+
+
+
+                                                                        ev
+       Study Aims:
+       The primary aim is to build a multidimensional atlas of circuits that are causally involved in
+
+
+
+
+                                                             r
+       human brain function. We will use a comprehensive assessment battery to map transdiagnostic
+
+       constructs relevant to psychopathology from broad spectra (e.g., internalizing, externalizing) to
+                                                          er
+       specific symptoms (e.g., worry, aggression) and processes (e.g., emotional regulation). This
+                                               pe
+       causal wiring diagram will yield an atlas of targets that can be focally targeted with brain
+
+       stimulation to modify transdiagnostic and diagnosis-specific behaviors (Figure 1).
+
+       Secondary aims include to:
+                                     ot
+
+
+       (1) Define specific symptoms/processes that are modified by TMS to distinct circuits after
+                           tn
+
+
+
+       multiple comparisons correction
+
+       (2) Test for nonspecific transdiagnostic effects of TMS across all diagnostic groups.
+
+       (3) Define optimal TMS target circuits for individual diagnoses that will predict clinical
+                rin
+
+
+
+
+       improvement in diagnosis-specific metrics across all four diagnoses
+
+       (4) Measure efficacy of TMS at a schizophrenia-specific target in improving positive symptoms
+     ep
+
+
+
+
+       of schizophrenia.
+
+       (5) Assess target engagement with prospectively randomized TMS targets to more specifically
+Pr
+
+
+
+
+       measure network-specific TMS induced changes in resting-state functional connectivity (rsFC).
+
+
+                                                                                                              5
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Figure 1. Cluster mapping model to build causal wiring diagram. (a) Participants will be randomly
+
+
+
+
+                                                                                       ed
+       assigned to a stimulation target. (b) Each stimulation site’s whole-brain functional connectivity profile
+       will be mapped. (c) Each stimulation site’s connectivity profile will be compared to change in each
+       behavior using voxel-wise correlations, yielding a map of causal circuitry associated with that behavior.
+       (d) The resulting maps for each behavior will be separated into clusters. (e) The maps in each cluster will
+       be averaged to generate a single map representing the connectivity of stimulation sites that modify
+
+
+
+
+                                                                                    iew
+       behaviors in that cluster.
+
+
+
+
+                                                              r           ev
+       Methods/Study Design
+                                                           er
+                                                pe
+       Study Design Overview
+
+       This is a randomized, controlled, crossover trial in which 90 participants will each be treated
+
+       with two different TMS targets, with fMRI scans and deep phenotyping before and after
+                                     ot
+
+
+       stimulation at each target. Patients who meet inclusion criteria for a primary diagnosis of MDD,
+                          tn
+
+
+
+       OCD, GAD, or Schizophrenia (n=90) and consent to treatment will be assigned two random
+
+       stimulation sites in the left PFC. They will first receive 2 days of accelerated iTBS treatment (10
+
+       treatments per day) at the first stimulation site, followed by a six-week washout period.
+                rin
+
+
+
+
+       Participants will then return for another 2 days of accelerated iTBS treatment at the second
+
+       stimulation site. There is no sham arm.
+     ep
+
+
+
+
+       Patients with schizophrenia with unresolved symptoms will be offered to participate in a third
+
+       arm. Each patient's individual functional imaging will be used to identify a third treatment site in
+Pr
+
+
+
+
+                                                                                                                 6
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       the rostromedial prefrontal cortex (rmPFC), based on connectivity to Pines et al.’s psychosis
+
+
+
+
+                                                                                     ed
+       circuit11.
+
+       For each arm, there will be two days of behavioral testing before and after each 2 day-
+
+
+
+
+                                                                                  iew
+       stimulation session. MRI scans will be obtained pre- and post-treatment at each target site for a
+
+       total of four MRI scans per participant (six for those participating in the third schizophrenia
+
+       arm). (See Supp., Appx I for detailed protocol).
+
+
+
+
+                                                                        ev
+       Figure 2. Study design overview
+
+
+
+
+                                                             r
+                                                          er
+                                               pe
+                                     ot
+                          tn
+                rin
+
+
+
+
+       Participants
+       Adults aged 18-65 may be screened (including those referred for clinical TMS or excluded from
+
+       other research trials within the Center for Brain Therapeutics Center). Recruitment will remain
+     ep
+
+
+
+
+       open until recruitment numbers have hit the maximum allowed.
+Pr
+
+
+
+
+       Enrollment
+       Inclusion/exclusion Criteria
+
+                                                                                                              7
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Participants will have a primary diagnosis of major depressive disorder (MDD), obsessive-
+
+
+
+
+                                                                                     ed
+       compulsive disorder (OCD), generalized anxiety disorder (GAD), or schizophrenia (determined
+
+       by focal assessment using the Structured Clinical Interview for DSM-5). Participants must be
+
+
+
+
+                                                                                  iew
+       generally maintained on a stable psychotropic medication regimen, or remain medication free,
+
+       for four weeks prior to treatment.
+
+       Exclusion criteria include active pregnancy, Cluster B personality disorders, PTSD with active,
+
+
+
+
+                                                                        ev
+       clinically significant symptoms, diagnosis of schizoaffective disorder- bipolar type, recent or
+
+       concurrent use of rapid-acting antidepressant agent, eating disorders, active withdrawal,
+
+
+
+
+                                                             r
+       suicidality, mania or hypomania, or significant neurological illness. Participants currently
+
+
+                                                          er
+       receiving TMS or planning to start TMS or other clinical or investigational interventions during
+
+       the study period will also be excluded.
+                                               pe
+       For detailed information on study eligibility, see Supp., Appx II
+
+       Location
+
+       Recruitment and TMS treatment will occur at one of two sites: (1) the Center for Brain Circuit
+                                     ot
+
+
+       Therapeutics at Brigham & Women’s Hospital (BWH) in Boston, MA, or (2) Acacia Clinics in
+                          tn
+
+
+
+       Sunnyvale, CA.
+
+       Treatment site determination and randomization
+                rin
+
+
+
+
+       For the first two arms of the study, patients will be assigned two random stimulation sites in the
+
+       left PFC. The left PFC was chosen as a search space because its functional connectivity is highly
+     ep
+
+
+
+
+       variable between subregions and between individuals, yielding substantial variance in TMS site
+
+       connectivity. We will conduct block randomization using the Schaefer 400-region parcellation12,
+
+       which includes 23 functionally distinct regions in the left PFC that are superficial enough to
+Pr
+
+
+
+
+       access with TMS and are adequately distant from unsafe targets (i.e. those that may cause
+
+                                                                                                              8
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       seizures due to proximity to the motor cortex, or may cause retinal detachment due to proximity
+
+
+
+
+                                                                                     ed
+       to the orbit). Each participant will be randomly assigned to a block defined as one of the 23 left
+
+       PFC regions defined by this parcellation. A random coordinate will be chosen within that block.
+
+
+
+
+                                                                                  iew
+       Blocks will be allocated such that each region is targeted at an approximately even frequency. If
+
+       a participant is unable to tolerate stimulation at a particular block, we will move on to the next
+
+       block. For the same participant’s second target, we will follow the same procedure, but will
+
+
+
+
+                                                                        ev
+       exclude the parcel that has already been stimulated. Thus, every participant will be stimulated at
+
+       two different parcels.
+
+
+
+
+                                                             r
+       Target sites for the third optional schizophrenia arm will be determined by using participants’
+
+
+                                                          er
+       resting-state fMRI to identify the personalized location of maximal connectivity to Pines et al.’s
+
+       psychosis circuit11.
+                                               pe
+       Intervention
+
+       TMS coil placement and stimulation parameters: All TMS treatments will be delivered with a
+                                     ot
+
+
+       MagVenture MagPro X100 system (MagVenture A/S, Denmark) equipped with a Cool-B65 coil.
+
+       A Localite neuronavigation system (Localite GmbH, Sankt Augustin, Germany) or a robotic arm
+                          tn
+
+
+
+       (Axilium Robotics, Inc.) may be used to maintain precise targeting when the patient’s head
+
+       moves inadvertently.
+                rin
+
+
+
+
+       At each treatment site, we aim to deliver 10 iTBS treatment sessions per day (18,000 pulses/day)
+
+       for 2 consecutive days (36,000 pulses total). Treatments will be delivered every 60 minutes, and
+     ep
+
+
+
+
+       each treatment takes 9 minutes. Each iTBS treatment consists of 60 cycles of 10 bursts of three
+
+       pulses at 50 Hz delivered in 2-second trains (5 Hz) with an 8-second intertrain interval.
+Pr
+
+
+
+
+                                                                                                              9
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Stimulation will be delivered at 90% resting motor threshold (rMT), a lower dose than the 120%
+
+
+
+
+                                                                                     ed
+       of standard daily iTBS treatment. MT will be adjusted based on scalp-to-cortex distance.
+
+
+       Blinding: Technicians and raters will remain blinded to the circuit connected to each stimulation
+
+
+
+
+                                                                                  iew
+       site. Connectivity measurements will be computed after the end of the study, so it is impossible
+
+       for the technician to become accidentally unblinded.
+
+
+
+
+                                                                        ev
+       Measures
+
+       Behavioral phenotyping measures
+
+
+
+
+                                                             r
+       Behavioral testing pre- and post-TMS will include a deep battery of self- and clinician-
+
+       administered questionnaires and tasks (Table 1). Testing will be divided over two days and
+                                                          er
+       administered pre-treatment and post-treatment for each treatment site. Altogether, we will collect
+                                               pe
+       178 different transdiagnostic behavioral metrics (36 task-based and 142 questionnaire-based)
+
+       which will go into the clustering model.
+
+       Our phenotyping battery was drawn from various NIMH/RDoC-inspired initiatives, including
+                                     ot
+
+
+       the TestMyBrain (TMB) toolkit13 (a proposed RDoC test battery), the adult temperament
+
+       questionnaire (ATQ)14, the emotion reactivity scale (ERS)15, the positive and negative affect
+                          tn
+
+
+
+       scale (PANAS)16, the anxiety sensitivity inventory (ASI)17, the temporal experience of pleasure
+
+       scale (TEP)18, and the ruminative response scale (RRS)19.
+                rin
+
+
+
+
+       Diagnosis-specific scales will also be administered, including Beck Depression Inventory
+
+       (BDI)20, Yale-Brown Obsessive-Compulsive Scale (YBOCS)21, Positive and Negative Syndrome
+     ep
+
+
+
+
+       Scale (PANSS)22, Calgary Depression Scale for Schizophrenia (CDSS)23. We will also collect
+
+       clinical global impression (CGI)24 pre and post treatment. Additional screeners and tasks will be
+Pr
+
+
+
+
+       completed to assess measures such as, core values and beliefs, time perception, cognitive control
+
+       and threat perception.
+
+                                                                                                             10
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Table 1. Phenotyping Battery
+
+
+
+
+                                                                                      ed
+         Questionnaires and Tasks                            Domains Measured
+         Clinician Administered Questionnaires
+         Calgary Depression Scale for Schizophrenia          depression in schizophrenia
+         (CDSS)23
+
+
+
+
+                                                                                   iew
+         Clinical Global Improvement (CGI)24                 broad psychopathology (severity/change)
+         Columbia–Suicide Severity Rating Scale              Suicidal behavior and ideation
+         (CSSRS)25
+         Positive and Negative Syndrome Scale                psychosis (positive symptoms, negative
+         (PANSS) 22                                          symptoms, disorganization, affect,
+                                                             excitement/activity)
+
+
+
+
+                                                                         ev
+         Psychotic Symptom Rating Scale (PSYRATS)26          auditory hallucinations, delusions
+         Scale for the Assessment of Negative Symptoms       negative psychosis symptoms
+         (SANS)27
+         Scale for the Assessment of Positive Symptoms       positive psychosis symptoms
+         (SAPS)28
+
+
+
+
+                                                             r
+         Yale Brown Obsessive Compulsive Scale               obsessive-compulsive disorder
+         (YBOCS) 21
+         Self-report Questionnaires
+         Adult Temperament Questionnaire (ATQ)14
+                                                          er affiliativeness, aggressive negative affect,
+                                                             effortful control, extraversion/surgency, non-
+                                                             aggressive negative affect, orienting sensitivity,
+                                                  pe
+                                                             neutral perceptual sensitivity
+         Anxiety Sensitivity Index (ASI)17                   concern about anxious cognitions/physiological
+                                                             sensations (i.e., fear of fear)
+         Beck Anxiety Inventory (BAI)29                      anxiety (particularly physiological anxiety
+                                                             symptoms)
+         Beck Depression Inventory (BDI)20                   depression (cognitive-affective and somatic-
+                                     ot
+
+                                                             vegetative symptoms)
+         Behavioral Inhibition/Activation Scale              behavioral inhibition, behavioral activation
+         (BIS/BAS)30                                         (reward responsiveness, drive, and fun seeking)
+         Claremont Purpose Scale (CPS)31                     purpose (goal-directedness, personal
+                          tn
+
+
+
+                                                             meaningfulness, and beyond-the-self dimensions)
+         De Jong Gierveld Loneliness Scale32                 loneliness
+         Daily Spiritual Experience Scale (DSES)33           spirituality
+         Emotional Reactivity Scale (ERS)15                  emotion reactivity (emotion sensitivity, intensity,
+                                                             persistence)
+                rin
+
+
+
+
+         Flourishing Measures34
+         Headache Impact Test (HIT-6)35                      headache pain (severity/impact)
+         HiTOP-Self Report (HiTOP-SR) 36                     dimensional psychopathological constructs that
+                                                             range from broad spectra (e.g., internalizing) to
+     ep
+
+
+
+
+                                                             specific symptoms (e.g., worry)
+         Mood and Anxiety Symptom Questionnaire              Anxiety (physiological hyperarousal)
+         (MASQ)37, anxious arousal subscale
+         Moral Judgment Scale38                              moral judgment (norm violation, intention, social
+                                                             affect)
+Pr
+
+
+
+
+         Pain Screener, adapted from the Brief Pain          global pain (severity/impact)
+         Inventory39
+         Penn State Worry Questionnaire (PSWQ)40             worry
+
+                                                                                                                 11
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+         Personal Relationship with God Scale41              communication/relationship with God
+
+
+
+
+                                                                                         ed
+         Pittsburgh Sleep Quality Index (PSQI)42             sleep quality
+         Positive and Negative Affect Scale (PANAS)16        positive affect, negative affect
+         Ruminative Response Scale (RRS) 19                  rumination (brooding, reflective pondering)
+         Self Compassion-Short Form43                        self-compassion (kindness/indifference, common
+                                                             humanity/separation, mindfulness/disengagement)
+
+
+
+
+                                                                                      iew
+         Spiritual Transcendence Scale- Short Form44         spirituality (prayer/meditation enjoyment,
+                                                             universal connectedness, greater purpose,
+                                                             wholeness of humanity, closeness to the
+                                                             deceased)
+         Temporal Experience of Pleasure Scale (TEPS)18      anhedonia (anticipatory, consummatory)
+
+
+
+
+                                                                           ev
+         The Values and Beliefs of the American Public45     core values/beliefs
+         Tasks
+         Altruistic Decision Task46                          altruism
+         Balloon Analogue Risk Task47                        impulsivity
+         Death/Suicide Implicit Association Test (DSIAT)     suicidality
+
+
+
+
+                                                              r
+         48
+
+         EEfRT49                                             reward motivation
+         MSIT50
+         Emotional Conflict Resolution51
+         Time perception task52
+         TMB toolkit13
+                                                           ercognitive interference
+                                                             emotion regulation
+                                                             time perception
+                                               pe
+         TMB Anger sensitivity                               potential threat, social communication, theory of
+                                                             mind
+         TMB Choice Reaction Time                            processing speed, cognitive inhibition/ control
+         TMB delay discounting                               temporal discounting, decision-making, reward
+         TMB digit symbol matching                           processing speed, visual short term memory
+         TMB emotion word mem (8)                            memory, self-knowledge, positive/negative
+                                     ot
+
+                                                             valence
+         TMB fear sensitivity                                potential threat, social communication, theory of
+                                                             mind
+         TMB flanker (2)                                     attention, cognitive control
+                          tn
+
+
+
+         TMS flicker change detection                        change detection, visual search
+         TMB Gradual onset CPT (4)                           attention, cognitive control, response inhibition
+         TMB Happiness sensitivity                           positive valence, social communication, theory of
+                                                             mind
+                rin
+
+
+
+
+         TMB Matrix reasoning                                attention, cognitive control, working memory
+         TMB Multi-object tracking                           attention, perception, cognitive control, working
+                                                              memory
+         TMB face emotion ID (5)                             social communication, emotion recognition bias
+         TMB Probabilistic reward                            reward learning
+     ep
+
+
+
+
+         TMB Reading mind in eyes                            social communication
+         TMB Simple reaction time                            psychomotor speed, response speed
+         TMB threat/neutral dot probe                        potential threat, attention bias to emotion
+         Threat/neutral Sternberg (2)                        working memory, maintenance, threat
+                                                              processing
+Pr
+
+
+
+
+         TMB Verbal paired associates                        declarative memory, language, working memory
+         TMB Vocabulary                                      declarative memory, language
+
+                                                                                                             12
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       For additional information on phenotyping battery, see Supp., Appx III
+
+
+
+
+                                                                                     ed
+       Primary outcome
+
+
+
+
+                                                                                  iew
+       Causal wiring diagram of transdiagnostic behaviors: The primary outcome is to develop a
+
+       multidimensional atlas of brain circuits that cluster according to a broad transdiagnostic range of
+
+       symptoms and behaviors, following published methods for symptom clustering with different
+
+
+
+
+                                                                        ev
+       TMS sites6. This causal wiring diagram of human brain function will yield diagnosis-specific
+
+       behavioral targets that can be focally modulated.
+
+
+
+
+                                                             r
+       We will compute connectivity of each target using resting-state fMRI, thereby enabling
+
+                                                          er
+       personalized assessment of TMS site connectivity to all brain voxels. In a within-subjects
+
+       analysis, we will map baseline connectivity of TMS sites that preferentially modify each function
+                                               pe
+       in the phenotyping battery. Analytical procedures are described in the “statistical analysis”
+
+       section below.
+                                     ot
+
+
+       Secondary outcomes
+
+       Note that analytical procedures are described in the “statistical analysis” section below.
+                          tn
+
+
+
+       1. Individual circuits for transdiagnostic behavioral measures: Regardless of whether we identify
+
+       significant clustering in the 178 behavioral circuit maps, some of our measured behaviors may
+                rin
+
+
+
+
+       map to individual circuits, not part of an overall cluster. Thus, we will define individual
+
+       transdiagnostic traits that are modified by TMS, including emotional valence, personality,
+     ep
+
+
+
+
+       cognitive flexibility, cognitive and moral decision-making, meaning, purpose, and social
+
+       aptitude.
+Pr
+
+
+
+
+       2. Transdiagnostic effects of TMS on general mental illness: Our group has also previously
+
+       derived a circuit involved across different mental illnesses53. In testing for nonspecific
+                                                                                                             13
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       transdiagnostic effects of TMS, across all diagnostic groups, we hypothesize that TMS site
+
+
+
+
+                                                                                     ed
+       connectivity to this transdiagnostic circuit will significantly correlate with CGI improvement,
+
+       controlling for baseline CGI.
+
+
+
+
+                                                                                  iew
+       3. Diagnosis-specific effects: We will also aim to derive diagnosis-specific circuits. The circuit
+
+       mapping procedure will be repeated within each diagnostic group for the questionnaire that
+
+       corresponds to that diagnosis. Specifically, we will map the connectivity of TMS sites that
+
+
+
+
+                                                                        ev
+       modify BDI in patients with MDD, YBOCS in patients with OCD, BAI in patients with GAD,
+
+       and PANSS in patients with schizophrenia.
+
+
+
+
+                                                             r
+       4. Resting state functional connectivity: At the BWH site, pre- and post-TMS scans will be
+
+
+                                                          er
+       conducted on a high-gradient head-only 3T research MRI scanner (GE MAGNUS) using a 40-
+
+       minute multi-echo acquisition. At the Acacia site, scans will be conducted on a 3T Siemens
+                                               pe
+       Skyra in a single-echo acquisition. Across all participants in a repeated-measures analysis, TMS-
+
+       induced change in resting-state functional connectivity (rsFC) in target networks will be
+
+       compared to control networks using a repeated-measures mixed model. The target network will
+                                     ot
+
+
+       be defined as the network to which the stimulation site shows greatest connectivity, and the
+
+       control network will be the one to which the stimulation site shows second-greatest connectivity.
+                          tn
+
+
+
+       Exploratory analyses:
+
+       TMS and Schizophrenia-specific Target: Following the same study design for the first two arms,
+                rin
+
+
+
+
+       efficacy of aiTBS to a novel schizophrenia-specific target in the rmPFC11 will be explored.
+
+       Because of the individual variability within the left PFC, the first two randomized left prefrontal
+     ep
+
+
+
+
+       TMS targets should be differentially correlated with the psychosis circuit. We will compare the
+
+       efficacy of these two sites, assessed using PANSS change, to the efficacy of the third target in
+Pr
+
+
+
+
+       the rmPFC.
+
+
+                                                                                                             14
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Audio and video recording: Audio and video recording will be conducted pre- and post-
+
+
+
+
+                                                                                     ed
+       treatment, for approximately 5 minutes of clinician directed tasks. Participants will be asked
+
+       open-ended questions about a positive and negative experience in the past day, will complete a
+
+
+
+
+                                                                                  iew
+       picture description task, and will read a passage. The recordings will be analyzed for narrative
+
+       and behavioral analysis.
+
+       Statistical analysis plan
+
+
+
+
+                                                                        ev
+        This study primarily involves complex statistical modeling on the data that will be collected. The
+
+       analysis procedures are summarized below, and are described in full detail in Supp., Appx IV.
+
+
+
+
+                                                             r
+       Sample size: Effect size was estimated based on preliminary (unpublished) data in 66 patients
+                                                          er
+       who received clinical TMS for MDD. Individualized TMS site connectivity to the clustering-
+                                               pe
+       derived anxiosomatic circuit1 predicted TMS-induced change in anxiety sensitivity (r=0.32) and
+
+       emotional conflict resolution (r=0.33). This estimate is conservative because these effect sizes
+
+       were based on a prospective test of an a priori hypothesis that was generated based on data-
+                                     ot
+
+
+       driven clustering. To achieve 80% power to detect r=0.32 with α<0.05, a sample size of n=71
+
+       would be required. Anticipating a 20% dropout rate, which is more conservative than most TMS
+                          tn
+
+
+
+       trials54, we will aim to recruit a total of 90 participants, aiming for 71 completers.
+
+
+        This power analysis is also highly conservative because our study uses a crossover design with
+                rin
+
+
+
+
+       within-subjects analysis, which will greatly increase our power. Prospective randomization is
+
+       also likely to increase our power by increasing variance in TMS targets beyond what can be seen
+     ep
+
+
+
+
+       from incidental variability in patients who are targeted for major depression.
+
+       Analyses of primary outcomes: We will develop an atlas of circuits-based stimulation targets for
+Pr
+
+
+
+
+       different transdiagnostic behavioral clusters.
+
+                                                                                                             15
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Following methods by Siddiqi et al.6, we will map the circuitry connected to stimulation sites
+
+
+
+
+                                                                                     ed
+       that selectively induce changes in distinct clusters of behaviors. We hypothesize that this will
+
+       yield multiple distinct circuits which, when stimulated, lead to changes in distinct clusters of
+
+
+
+
+                                                                                  iew
+       behaviors. Significance will be tested using permutation testing as by Siddiqi et al1.
+
+
+        Analyses of secondary outcomes
+
+
+
+
+                                                                        ev
+       Sample size for secondary outcomes: With our anticipated sample size of n=90, even if we
+
+       observe half the preliminary effect size (d = 0.4), this will provide 96% power to detect this
+
+       effect with α<0.05 in a within-subjects analysis.
+
+
+
+
+                                                             r
+       Secondary Analysis 1: We will repeat the primary analysis for each individual behavior, rather
+
+                                                          er
+       than overall behavioral clusters, to identify circuit-based targets that may be optimal for each
+
+       construct measured in Table 1. Significance of each circuit will be assessed using permutation-
+                                               pe
+       based family wise error correction, followed by false discovery rate correction for multiple
+
+       circuits. We hypothesize that multiple individual behaviors will map to discrete circuits, after
+                                     ot
+
+       multiple comparisons correction.
+
+        Secondary Analysis 2: We will validate a circuit-based target for nonspecific transdiagnostic
+                          tn
+
+
+
+       effects of TMS. Our group recently published a common brain circuit associated with mental
+
+       illness in general53. We hypothesize that TMS sites with greater connectivity to this circuit will
+                rin
+
+
+
+
+       be associated with greater overall improvement in clinical status, as measured by the Clinical
+
+       Global Impression scale.
+     ep
+
+
+
+
+       Secondary Analysis 3: We will derive optimal TMS target circuits for individual diagnoses. We
+
+       will repeat the procedures for Analysis 1, but will focus specifically on mapping a circuit for
+Pr
+
+
+
+
+       BDI change in patients with MDD, BAI change in patients with GAD, YBOCS change in
+
+
+                                                                                                             16
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       patients with OCD, and PANSS change in patients with schizophrenia. To test for significance,
+
+
+
+
+                                                                                     ed
+       we will combine all participants into a single leave-one-out cross-validation. We hypothesize
+
+       that diagnosis-specific circuits will predict clinical improvement in diagnosis-specific metrics
+
+
+
+
+                                                                                  iew
+       across MDD, GAD, OCD and schizophrenia diagnoses.
+
+
+       Secondary Analysis 4: We will test target engagement with prospectively randomized TMS
+
+       targets. We will compute baseline rsFC of each TMS site to each participant’s individualized
+
+
+
+
+                                                                        ev
+       network definition of DAN, CON, DMN, FPCN, and VAN, defined by precision functional
+
+       mapping (PFM) using the individualized parcellation algorithm described in Schaefer et al.12.
+
+
+
+
+                                                             r
+       The network with greatest rsFC to each TMS site will be labeled as the “targeted network” in
+
+                                                          er
+       each stimulation condition. The network that ranks second in rsFC to the TMS site will be
+
+       treated as a control network. We hypothesize that across all participants in a repeated-measures
+                                               pe
+       analysis, TMS-induced change in rsFC in the target network will be significantly greater than
+
+       change in the control network.
+                                     ot
+
+       Analysis 5: We will assess the relative efficacy of TMS sites that incidentally target Pines et al.’s
+
+       psychosis circuit11. Using a mixed-effects model, we will determine if connectivity between the
+                          tn
+
+
+
+       TMS site and the psychosis circuit modulates psychotic symptoms. We hypothesize that there
+
+       will be a significant main effect of TMS site connectivity to the psychosis circuit on the total
+                rin
+
+
+
+
+       PANSS score. We will also repeat the within-subjects linear mixed model for positive symptoms
+
+       alone, negative symptoms alone, and cognitive outcomes.
+     ep
+
+
+
+
+       Analysis 6: We will explore the efficacy of TMS sites that prospectively target Pine et al.’s
+
+       psychosis circuit. We will compute the effect size of rmPFC treatment on PANSS scores, relative
+Pr
+
+
+
+
+       to the effect sizes of incidental stimulation sites that were not positively correlated to our circuit,
+
+                                                                                                             17
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       which may be used to estimate a sample size for a future randomized, controlled trial. Of note,
+
+
+
+
+                                                                                       ed
+       this analysis is biased because (1) it is open label, and (2) it is restricted to patients who did not
+
+       improve with prior targets. Thus, this analysis will only be used to estimate sample sizes for
+
+
+
+
+                                                                                    iew
+       future studies, and will not be subject to statistical hypothesis testing.
+
+       Supplemental analyses: We will also (1) control for extant medication classes in a separate
+
+       analysis. (2) examine changes in functional connectivity pre- and post- treatment and correlate
+
+
+
+
+                                                                        ev
+       these changes with symptom-specific changes measured by behavioral scales. (3) compare
+
+       nonpsychotic symptom changes in each patient between the rmPFC stimulation site and the two
+
+
+
+
+                                                             r
+       previous stimulation sites.
+
+       Common methods across aims
+                                                          er
+       All statistical analyses will be conducted using a within-subjects design. All statistical testing
+                                               pe
+       will be done using permutation testing except as otherwise specified. In all final circuit maps, we
+
+       will identify the peaks of the circuit using threshold-free cluster enhancement.
+
+       Risk management and Intervention Discontinuation
+                                     ot
+
+
+       Seizure risk will be minimized by excluding patients with relevant risk factors. Participants will
+
+       be questioned six times daily regarding severity of depression, anxiety, euphoria, suicidality,
+                          tn
+
+
+
+       paranoia and hallucinations using a 5 point Likert scale and subjective adverse effects. A
+
+       licensed physician will be available at all times in the event that a subject requires further
+                rin
+
+
+
+
+       evaluation in the unlikely event of signs of seizures or deterioration of a subject’s psychiatric
+
+       symptoms. In the event of a seizure or active suicidality with plan, the subject will be referred for
+     ep
+
+
+
+
+       emergency care, withdrawn from the study, and reported to the IRB.
+
+
+       For additional information on Study Monitoring and Reporting, see Supp., Appx V
+Pr
+
+
+
+
+                                                                                                                18
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       Discussion
+
+
+
+
+                                                                                     ed
+       Biotyping efforts have correlated symptom clusters with specific circuits in symptomatic
+
+       patients, but causality and therapeutic relevance remain unclear55. The present study will build a
+
+
+
+
+                                                                                  iew
+       multidimensional atlas of circuits that are causally involved in human brain function by
+
+       randomly applying transcranial magnetic stimulation (TMS) to different targets and mapping the
+
+       functional connectivity of targets that preferentially modify any given behavior. If successful,
+
+
+
+
+                                                                        ev
+       this will yield a parsimonious model of circuits that are causally involved in different behaviors.
+
+       Optimal personalized therapeutic targets for invasive and noninvasive brain stimulation can then
+
+
+
+
+                                                             r
+       be empirically tested in clinical trials. The atlas will contain maps that describe which tasks and
+
+                                                          er
+       questionnaires are measuring similar circuits, and which are measuring different circuits. This
+
+       information can be used to generate future circuit-based hypotheses for biomarker development
+                                               pe
+       and other aspects of circuit-behavior integration.
+
+
+       It remains unclear if TMS should be targeted based on diagnosis or transdiagnostic behaviors. By
+                                      ot
+
+
+       systematically collecting TMS targeting data along with a transdiagnostic behavioral assessment
+
+       in patients with multiple diagnoses this study will test whether the effects of causal circuit
+                          tn
+
+
+
+       manipulation are better modeled using diagnostic categories, transdiagnostic traits, or a
+
+       combination of both. If the effects of TMS are entirely diagnosis-dependent, then this study may
+                rin
+
+
+
+
+       be underpowered to detect an effect. However, this will be an important negative result that
+
+       should inform future TMS targeting paradigms. It is also probable that some behaviors are TMS-
+     ep
+
+
+
+
+       responsive, while others are not. This will also be an important negative result to report and
+
+       included in our final atlas.
+Pr
+
+
+
+
+                                                                                                             19
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+        The final atlas resulting from this study will include (1) all the cluster-based circuit maps along
+
+
+
+
+                                                                                         ed
+       with the corresponding behavioral metrics in each cluster, and (2) all the individual circuit maps
+
+       that survive multiple comparisons correction, along with a label of the cluster to which they
+
+
+
+
+                                                                                      iew
+       belong (if they fall into a cluster), (3) the circuit map associated with nonspecific TMS effects on
+
+       mental illness, and (4) the diagnosis-specific circuit maps. For circuit maps that do not survive
+
+       our rigorous permutation or cross-validation-based statistical hypothesis testing, they will be
+
+
+
+
+                                                                           ev
+       reported as negative results, along with effect sizes for use in future studies.
+
+
+        This study is designed to quantitatively answer the controversial question of the added value of
+
+
+
+
+                                                               r
+       targeting in TMS clinical practice. All existing studies on this topic thus far have been
+
+                                                            er
+       retrospective or non-random, thus making it impossible to estimate the true effect. By
+
+       prospectively randomizing the stimulation site, this study will enable TMS clinicians to advise
+                                                 pe
+       patients regarding how much additional benefit may be achieved with MRI guidance.
+
+       Overall, this study will yield a dataset that can be used to test a practically infinite range of
+                                      ot
+
+       hypotheses about TMS targeting. In addition to the primary and secondary analyses described
+
+       here, the resulting dataset will be made available to the research community to test creative
+                          tn
+
+
+
+       hypotheses about how targeting different circuits may affect different behaviors. If successful,
+
+       this study will also provide a template via which brain circuits can be causally mapped across a
+                rin
+
+
+
+
+       wide range of settings in the future.
+     ep
+
+
+
+
+       References:
+       1. Siddiqi, S. H., Kording, K. P., Parvizi, J., & Fox, M. D. (2022). Causal mapping of human brain function.
+Pr
+
+
+
+
+               Nature Reviews Neuroscience, 23(6), 361–375. https://doi.org/10.1038/s41583-022-00583-8
+
+                                                                                                                  20
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       2. Raij, T., Nummenmaa, A., Marin, M.-F., Porter, D., Furtak, S., Setsompop, K., & Milad, M. R. (2018).
+
+
+
+
+                                                                                            ed
+               Prefrontal Cortex Stimulation Enhances Fear Extinction Memory in Humans. Biological
+
+               Psychiatry, 84(2), 129–137. https://doi.org/10.1016/j.biopsych.2017.10.022
+
+
+
+
+                                                                                         iew
+       3. Zanjani, A., Zakzanis, K. K., Daskalakis, Z. J., & Chen, R. (2015). Repetitive transcranial magnetic
+
+               stimulation of the primary motor cortex in the treatment of motor signs in Parkinson’s disease:
+
+               A quantitative review of the literature. Movement Disorders, 30(6), 750–758.
+
+
+
+
+                                                                              ev
+               https://doi.org/10.1002/mds.26206
+
+       4. Faerman, A., Bishop, J. H., Stimpson, K. H., Phillips, A., Gülser, M., Amin, H., Nejad, R., DeSouza, D. D.,
+
+
+
+
+                                                                 r
+               Geoly, A. D., Kallioniemi, E., Jo, B., Williams, N. R., & Spiegel, D. (2021). Modulation of a Stable
+
+               Neurobehavioral Trait Using Repetitive Transcranial Magnetic Stimulation: A Preregistered
+
+                                                              er
+               Randomized Controlled Trial. Psychiatry and Clinical Psychology.
+
+               https://doi.org/10.1101/2021.07.08.21260222
+                                                   pe
+       5. Brown, J. C., DeVries, W. H., Korte, J. E., Sahlem, G. L., Bonilha, L., Short, E. B., & George, M. S. (2020).
+
+               NMDA receptor partial agonist, d-cycloserine, enhances 10 Hz rTMS-induced motor plasticity,
+                                       ot
+
+               suggesting long-term potentiation (LTP) as underlying mechanism. Brain Stimulation, 13(3),
+
+               530–532. https://doi.org/10.1016/j.brs.2020.01.005
+                           tn
+
+
+
+       6. Siddiqi, S. H., Taylor, S. F., Cooke, D., Pascual-Leone, A., George, M. S., & Fox, M. D. (2020). Distinct
+
+               Symptom-Specific Treatment Targets for Circuit-Based Neuromodulation. American Journal of
+                rin
+
+
+
+
+               Psychiatry, 177(5), 435–446. https://doi.org/10.1176/appi.ajp.2019.19090915
+
+       7. Taylor, J., Li, J., Lin, C., Jones, E., Frandsen, S., Becker, C., Drew, W., Haj-Darwish, D., Jabbour, S., Leach,
+
+               J., Palm, S., Sanderson, L., Santos, E., Sterina, L., Baratono, S., Gonsalvez, I., Lyndon, S., Snider, S.,
+     ep
+
+
+
+
+               Fox, M., & Siddiqi, S. (2024). Symptom-specific brain circuit stimulation: A head-to-head
+
+               randomized trial. In Review. https://doi.org/10.21203/rs.3.rs-4791291/v1
+Pr
+
+
+
+
+                                                                                                                       21
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       8. Frandsen, S., Glover, C., Cash, R., Blumberger, D., Choi, K. S., Dougherty, D., Downar, J., Fitzgerald, P.,
+
+
+
+
+                                                                                               ed
+                George, M., Horn, A., Grospietsch, F., Johnson, K., Kühn, A., Mayberg, H., Pascual-Leone, A.,
+
+                Riva-Posse, P., Rouhl, R., Schaper, F., Taylor, S., … Siddiqi, S. (2024). A dual-circuit causal model
+
+
+
+
+                                                                                            iew
+                of depression in humans. In Review. https://doi.org/10.21203/rs.3.rs-3754811/v1
+
+       9. Cole, E. J., Stimpson, K. H., Bentzley, B. S., Gulser, M., Cherian, K., Tischler, C., Nejad, R., Pankow, H.,
+
+                Choi, E., Aaron, H., Espil, F. M., Pannu, J., Xiao, X., Duvio, D., Solvason, H. B., Hawkins, J., Guerra,
+
+
+
+
+                                                                                ev
+                A., Jo, B., Raj, K. S., … Williams, N. R. (2020). Stanford Accelerated Intelligent Neuromodulation
+
+                Therapy for Treatment-Resistant Depression. American Journal of Psychiatry, 177(8), 716–726.
+
+
+
+
+                                                                   r
+                https://doi.org/10.1176/appi.ajp.2019.19070720
+
+       10. Williams, N. R., Sudheimer, K. D., Cole, E. J., Varias, A. D., Goldstein-Piekarski, A. N., Stetz, P.,
+
+                                                                er
+                Lombardi, A., Filippou-Frye, M., Van Roessel, P., Anderson, K., McCarthy, E. A., Wright, B.,
+
+                Sandhu, T., Menon, S., Jo, B., Koran, L., Williams, L. M., & Rodriguez, C. I. (2021). Accelerated
+                                                    pe
+                neuromodulation therapy for Obsessive-Compulsive Disorder. Brain Stimulation, 14(2), 435–
+
+                437. https://doi.org/10.1016/j.brs.2021.02.013
+                                        ot
+
+       11. Pines, A. R., Frandsen, S. B., Drew, W., Meyer, G. M., Howard, C., Palm, S. T., Schaper, F. L. W. V. J.,
+
+                Lin, C., Butenko, K., Ferguson, M. A., Friedrich, M. U., Grafman, J. H., Kappel, A. D., Neudorfer, C.,
+                            tn
+
+
+
+                Rost, N. S., Sanderson, L. L., Taylor, J. J., Wu, O., Kletenik, I., … Siddiqi, S. H. (2024). Mapping
+
+                Lesions that Cause Psychosis to a Human Brain Circuit and Proposed Stimulation Target.
+                rin
+
+
+
+
+                Neuroscience. https://doi.org/10.1101/2024.04.28.591471
+
+       12. Schaefer, A., Kong, R., Gordon, E. M., Laumann, T. O., Zuo, X.-N., Holmes, A. J., Eickhoff, S. B., & Yeo,
+
+                B. T. T. (2018). Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional
+     ep
+
+
+
+
+                Connectivity MRI. Cerebral Cortex, 28(9), 3095–3114. https://doi.org/10.1093/cercor/bhx179
+
+       13. Singh, S., Strong, R. W., Jung, L., Li, F. H., Grinspoon, L., Scheuer, L. S., Passell, E. J., Martini, P.,
+Pr
+
+
+
+
+                Chaytor, N., Soble, J. R., & Germine, L. (2021). The TestMyBrain Digital Neuropsychology Toolkit:
+
+
+                                                                                                                         22
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+               Development and Psychometric Characteristics. Journal of Clinical and Experimental
+
+
+
+
+                                                                                         ed
+               Neuropsychology, 43(8), 786–795. https://doi.org/10.1080/13803395.2021.2002269
+
+       14. Evans, D. E., & Rothbart, M. K. (2007). Developing a model for adult temperament. Journal of
+
+
+
+
+                                                                                      iew
+               Research in Personality, 41(4), 868–888. https://doi.org/10.1016/j.jrp.2006.11.002
+
+       15. Nock, M. K., Wedig, M. M., Holmberg, E. B., & Hooley, J. M. (2008). The emotion reactivity scale:
+
+               Development, evaluation, and relation to self-injurious thoughts and behaviors. Behavior
+
+
+
+
+                                                                           ev
+               Therapy, 39(2), 107–116. https://doi.org/10.1016/j.beth.2007.05.005
+
+       16. Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and validation of brief measures of
+
+
+
+
+                                                               r
+               positive and negative affect: The PANAS scales. Journal of Personality and Social Psychology,
+
+               54(6), 1063–1070. https://doi.org/10.1037/0022-3514.54.6.1063
+
+                                                            er
+       17. Peterson, R. A., & Heilbronner, R. L. (1987). The anxiety sensitivity index: Construct validity and
+
+               factor analytic structure. Journal of Anxiety Disorders, 1(2), 117–121.
+                                                 pe
+               https://doi.org/10.1016/0887-6185(87)90002-8
+
+       18. Gard, D. E., Gard, M. G., Kring, A. M., & John, O. P. (2006). Anticipatory and consummatory
+                                      ot
+
+               components of the experience of pleasure: A scale development study. Journal of Research in
+
+               Personality, 40(6), 1086–1102. https://doi.org/10.1016/j.jrp.2005.11.001
+                          tn
+
+
+
+       19. Treynor, W. (2003). Rumination Reconsidered: A Psychometric Analysis. Cognitive Therapy and
+
+               Research, 27(3), 247–259. https://doi.org/10.1023/A:1023910315561
+                rin
+
+
+
+
+       20. Beck, A. T., Steer, R. A., & Brown, G. K. (1996). Beck Depression Inventory.
+
+       21. Goodman, W. K., Price, L. H., Rasmussen, S. A., Mazure, C., Fleischmann, R. L., Hill, C. L., Heninger, G.
+
+               R., & Charney, D. S. (1989). The Yale-Brown Obsessive Compulsive Scale. I. Development, use,
+     ep
+
+
+
+
+               and reliability. Archives of General Psychiatry, 46(11), 1006–1011.
+
+               https://doi.org/10.1001/archpsyc.1989.01810110048007
+Pr
+
+
+
+
+                                                                                                                  23
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       22. Kay, S. R., Fiszbein, A., & Opler, L. A. (1987). The positive and negative syndrome scale (PANSS) for
+
+
+
+
+                                                                                         ed
+               schizophrenia. Schizophrenia Bulletin, 13(2), 261–276. https://doi.org/10.1093/schbul/13.2.261
+
+       23. Addington, D., Addington, J., & Maticka-Tyndale, E. (1993). Assessing depression in schizophrenia:
+
+
+
+
+                                                                                      iew
+               The Calgary Depression Scale. The British Journal of Psychiatry. Supplement, 22, 39–44.
+
+       24. Busner, J., & Targum, S. D. (2007). The Clinical Global Impressions Scale. Psychiatry (Edgmont), 4(7),
+
+               28–37.
+
+
+
+
+                                                                           ev
+       25. Posner, K., Brown, G. K., Stanley, B., Brent, D. A., Yershova, K. V., Oquendo, M. A., Currier, G. W.,
+
+               Melvin, G. A., Greenhill, L., Shen, S., & Mann, J. J. (2011). The Columbia–Suicide Severity Rating
+
+
+
+
+                                                               r
+               Scale: Initial Validity and Internal Consistency Findings From Three Multisite Studies With
+
+               Adolescents and Adults. American Journal of Psychiatry, 168(12), 1266–1277.
+
+                                                            er
+               https://doi.org/10.1176/appi.ajp.2011.10111704
+
+       26. Haddock, G., McCarron, J., Tarrier, N., & Faragher, E. B. (1999). Scales to measure dimensions of
+                                                 pe
+               hallucinations and delusions: The psychotic symptom rating scales (PSYRATS). Psychological
+
+               Medicine, 29(4), 879–889. https://doi.org/10.1017/s0033291799008661
+                                      ot
+
+       27. Andreasen, N. C. (1989). The Scale for the Assessment of Negative Symptoms (SANS): Conceptual
+
+               and theoretical foundations. The British Journal of Psychiatry. Supplement, 7, 49–58.
+                          tn
+
+
+
+       28. Andreason, N. C. (2000). Scale for the assessment of positive symptoms (SAPS) [Dataset].
+
+       29. Beck, A. T., Epstein, N., Brown, G., & Steer, R. A. (1988). An inventory for measuring clinical anxiety:
+                rin
+
+
+
+
+               Psychometric properties. Journal of Consulting and Clinical Psychology, 56(6), 893–897.
+
+               https://doi.org/10.1037/0022-006X.56.6.893
+
+       30. Carver, C. S., & White, T. L. (1994). Behavioral inhibition, behavioral activation, and affective
+     ep
+
+
+
+
+               responses to impending reward and punishment: The BIS/BAS Scales. Journal of Personality and
+
+               Social Psychology, 67(2), 319–333. https://doi.org/10.1037/0022-3514.67.2.319
+Pr
+
+
+
+
+                                                                                                                   24
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       31. Bronk, K. C., Riches, B. R., & Mangan, S. A. (2018). Claremont Purpose Scale: A Measure that Assesses
+
+
+
+
+                                                                                             ed
+               the Three Dimensions of Purpose among Adolescents. Research in Human Development, 15(2),
+
+               101–117. https://doi.org/10.1080/15427609.2018.1441577
+
+
+
+
+                                                                                          iew
+       32. Coelho, G. L. D. H., Fonseca, P. N. D., Gouveia, V. V., Wolf, L. J., & Vilar, R. (2018). De Jong Gierveld
+
+               Loneliness Scale - Short Version: Validation for the Brazilian Context. Paidéia (Ribeirão Preto),
+
+               28(0). https://doi.org/10.1590/1982-4327e2805
+
+
+
+
+                                                                               ev
+       33. Underwood, L. G. (2011). The Daily Spiritual Experience Scale: Overview and Results. Religions, 2(1),
+
+               29–50. https://doi.org/10.3390/rel2010029
+
+
+
+
+                                                                  r
+       34. VanderWeele, T. J. (2017). On the promotion of human flourishing. Proceedings of the National
+
+               Academy of Sciences, 114(31), 8148–8156. https://doi.org/10.1073/pnas.1702996114
+
+                                                               er
+       35. Yang, M., Rendas-Baum, R., Varon, S. F., & Kosinski, M. (2011). Validation of the Headache Impact
+
+               Test (HIT-6TM) across episodic and chronic migraine. Cephalalgia: An International Journal of
+                                                   pe
+               Headache, 31(3), 357–367. https://doi.org/10.1177/0333102410379890
+
+       36. Cicero, D. C., Ruggero, C. J., Balling, C. E., Bottera, A. R., Cheli, S., Elkrief, L., Forbush, K. T., Hopwood,
+                                       ot
+
+               C. J., Jonas, K. G., Jutras-Aswad, D., Kotov, R., Levin-Aspenson, H. F., Mullins-Sweatt, S. N.,
+
+               Johnson-Munguia, S., Narrow, W. E., Negi, S., Patrick, C. J., Rodriguez-Seijas, C., Sheth, S., …
+                           tn
+
+
+
+               Thomeczek, M. L. (2024). State of the Science: The Hierarchical Taxonomy of Psychopathology
+
+               (HiTOP). Behavior Therapy, 55(6), 1114–1129. https://doi.org/10.1016/j.beth.2024.05.001
+                rin
+
+
+
+
+       37. Clark, L. A., & Watson, D. (1991). Tripartite model of anxiety and depression: Psychometric evidence
+
+               and taxonomic implications. Journal of Abnormal Psychology, 100(3), 316–336.
+
+               https://doi.org/10.1037/0021-843X.100.3.316
+     ep
+
+
+
+
+       38. Yazdanpanah, A., Soltani, S., Mirfazeli, F. S., Shariat, S. V., Jahanbakhshi, A., GhaffariHosseini, F.,
+
+               Alavi, K., Hosseinpour, P., Javadnia, P., & Grafman, J. (2021). Iranian and American Moral
+Pr
+
+
+
+
+                                                                                                                        25
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+               Judgments for Everyday Dilemmas Are Mostly Similar. Frontiers in Psychology, 12.
+
+
+
+
+                                                                                            ed
+               https://doi.org/10.3389/fpsyg.2021.640620
+
+       39. Cleeland, C. S., & Ryan, K. M. (1994). Pain assessment: Global use of the Brief Pain Inventory. Annals
+
+
+
+
+                                                                                         iew
+               of the Academy of Medicine, Singapore, 23(2), 129–138.
+
+       40. Meyer, T. J., Miller, M. L., Metzger, R. L., & Borkovec, T. D. (1990). Development and validation of the
+
+               Penn State Worry Questionnaire. Behaviour Research and Therapy, 28(6), 487–495.
+
+
+
+
+                                                                              ev
+               https://doi.org/10.1016/0005-7967(90)90135-6
+
+       41. Cohen-Zimerman, S., Cristofori, I., Zhong, W., Bulbulia, J., Krueger, F., Gordon, B., & Grafman, J.
+
+
+
+
+                                                                 r
+               (2020). Neural underpinning of a personal relationship with God and sense of control: A lesion-
+
+               mapping study. Cognitive, Affective & Behavioral Neuroscience, 20(3), 575–587.
+
+               https://doi.org/10.3758/s13415-020-00787-4     er
+       42. Smyth, C. (1999). The Pittsburgh Sleep Quality Index (PSQI). Journal of Gerontological Nursing,
+                                                   pe
+               25(12), 10–11. https://doi.org/10.3928/0098-9134-19991201-10
+
+       43. Raes, F., Pommier, E., Neff, K. D., & Van Gucht, D. (2011). Construction and factorial validation of a
+                                       ot
+
+               short form of the Self-Compassion Scale. Clinical Psychology & Psychotherapy, 18(3), 250–255.
+
+               https://doi.org/10.1002/cpp.702
+                           tn
+
+
+
+       44. Piedmont, R. L. (2001). Spiritual transcendence and the scientific study of spirituality. 67(1), 4–14.
+
+       45. Dougherty, K., Froese, P., Whitehead, A., Park, J., & Neubert, M. (2022). Baylor Religion Survey, Wave
+                rin
+
+
+
+
+               III (2010). https://doi.org/10.17605/OSF.IO/56FAE
+
+       46. Moll, J., De Oliveira-Souza, R., Basilio, R., Bramati, I. E., Gordon, B., Rodríguez-Nieto, G., Zahn, R.,
+
+               Krueger, F., & Grafman, J. (2018). Altruistic decisions following penetrating traumatic brain
+     ep
+
+
+
+
+               injury. Brain, 141(5), 1558–1569. https://doi.org/10.1093/brain/awy064
+
+       47. Lejuez, C. W., Read, J. P., Kahler, C. W., Richards, J. B., Ramsey, S. E., Stuart, G. L., Strong, D. R., &
+Pr
+
+
+
+
+               Brown, R. A. (2002). Evaluation of a behavioral measure of risk taking: The Balloon Analogue Risk
+
+
+                                                                                                                        26
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+               Task (BART). Journal of Experimental Psychology: Applied, 8(2), 75–84.
+
+
+
+
+                                                                                            ed
+               https://doi.org/10.1037/1076-898X.8.2.75
+
+       48. Nock, M. K., Park, J. M., Finn, C. T., Deliberto, T. L., Dour, H. J., & Banaji, M. R. (2010). Measuring the
+
+
+
+
+                                                                                         iew
+               suicidal mind: Implicit cognition predicts suicidal behavior. Psychological Science, 21(4), 511–
+
+               517. https://doi.org/10.1177/0956797610364762
+
+       49. Treadway, M. T., Buckholtz, J. W., Schwartzman, A. N., Lambert, W. E., & Zald, D. H. (2009). Worth
+
+
+
+
+                                                                              ev
+               the ‘EEfRT’? The effort expenditure for rewards task as an objective measure of motivation and
+
+               anhedonia. PloS One, 4(8), e6598. https://doi.org/10.1371/journal.pone.0006598
+
+
+
+
+                                                                 r
+       50. Bush, G., Shin, L. M., Holmes, J., Rosen, B. R., & Vogt, B. A. (2003). The Multi-Source Interference
+
+               Task: Validation study with fMRI in individual subjects. Molecular Psychiatry, 8(1), 60–70.
+
+               https://doi.org/10.1038/sj.mp.4001217          er
+       51. Williams, J. M., Mathews, A., & MacLeod, C. (1996). The emotional Stroop task and psychopathology.
+                                                  pe
+               Psychological Bulletin, 120(1), 3–24. https://doi.org/10.1037/0033-2909.120.1.3
+
+       52. Jazayeri, M., & Shadlen, M. N. (2010). Temporal context calibrates interval timing. Nature
+                                       ot
+
+               Neuroscience, 13(8), 1020–1026. https://doi.org/10.1038/nn.2590
+
+       53. Taylor, J. J., Lin, C., Talmasov, D., Ferguson, M. A., Schaper, F. L. W. V. J., Jiang, J., Goodkind, M.,
+                           tn
+
+
+
+               Grafman, J., Etkin, A., Siddiqi, S. H., & Fox, M. D. (2023). A transdiagnostic network for
+
+               psychiatric illness derived from atrophy and lesions. Nature Human Behaviour, 7(3), 420–429.
+                rin
+
+
+
+
+               https://doi.org/10.1038/s41562-022-01501-9
+
+       54. Berlim, M. T., Van Den Eynde, F., Tovar-Perdomo, S., & Daskalakis, Z. J. (2014). Response, remission
+
+               and drop-out rates following high-frequency repetitive transcranial magnetic stimulation (rTMS)
+     ep
+
+
+
+
+               for treating major depression: A systematic review and meta-analysis of randomized, double-
+
+               blind and sham-controlled trials. Psychological Medicine, 44(2), 225–239.
+Pr
+
+
+
+
+               https://doi.org/10.1017/S0033291713000512
+
+
+                                                                                                                      27
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
+       55. Drysdale, A. T., Grosenick, L., Downar, J., Dunlop, K., Mansouri, F., Meng, Y., Fetcho, R. N., Zebley, B.,
+
+
+
+
+                                                                                              ed
+               Oathes, D. J., Etkin, A., Schatzberg, A. F., Sudheimer, K., Keller, J., Mayberg, H. S., Gunning, F. M.,
+
+               Alexopoulos, G. S., Fox, M. D., Pascual-Leone, A., Voss, H. U., … Liston, C. (2017). Resting-state
+
+
+
+
+                                                                                           iew
+               connectivity biomarkers define neurophysiological subtypes of depression. Nature Medicine,
+
+               23(1), 28–38. https://doi.org/10.1038/nm.4246
+
+       56. HITOP Measurement. (n.d.). Personality, Psychopathology, and Psychometrics Lab. Retrieved 2
+
+
+
+
+                                                                                ev
+               December 2024, from https://www.3plab.org/hitop
+
+       57. Bakdash, J. Z., & Marusich, L. R. (2017). Repeated Measures Correlation. Frontiers in Psychology, 8,
+
+
+
+
+                                                                  r
+               456. https://doi.org/10.3389/fpsyg.2017.00456
+
+       58. Siddiqi, S. H., Kandala, S., Hacker, C. D., Bouchard, H., Leuthardt, E. C., Corbetta, M., Morey, R. A., &
+
+                                                               er
+               Brody, D. L. (2023). Precision functional MRI mapping reveals distinct connectivity patterns for
+
+               depression associated with traumatic brain injury. Science Translational Medicine, 15(703),
+                                                   pe
+               eabn0441. https://doi.org/10.1126/scitranslmed.abn0441
+
+       59. Gordon, E. M., Laumann, T. O., Adeyemo, B., & Petersen, S. E. (2015). Individual Variability of the
+                                       ot
+
+               System-Level Organization of the Human Brain. Cerebral Cortex, bhv239.
+
+               https://doi.org/10.1093/cercor/bhv239
+                           tn
+
+
+
+       60. Isserles, M., Tendler, A., Roth, Y., Bystritsky, A., Blumberger, D. M., Ward, H., Feifel, D., Viner, L.,
+
+               Duffy, W., Zohar, J., Keller, C. J., Bhati, M. T., Etkin, A., George, M. S., Filipcic, I., Lapidus, K.,
+                rin
+
+
+
+
+               Casuto, L., Vaishnavi, S., Stein, A., … Ressler, K. J. (2021). Deep Transcranial Magnetic Stimulation
+
+               Combined With Brief Exposure for Posttraumatic Stress Disorder: A Prospective Multisite
+
+               Randomized Trial. Biological Psychiatry, 90(10), 721–728.
+     ep
+
+
+
+
+               https://doi.org/10.1016/j.biopsych.2021.04.019
+Pr
+
+
+
+
+                                                                                                                         28
+
+
+This preprint research paper has not been peer reviewed. Electronic copy available at: https://ssrn.com/abstract=5179995
